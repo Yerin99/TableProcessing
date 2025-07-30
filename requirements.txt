@@ -1,0 +1,7 @@
+torch>=2.0.0
+transformers>=4.39.3
+pypdfium2>=4.20.0
+pandas>=2.2.0
+tabulate>=0.9.0
+reportlab>=4.0.0
+gmft @ git+https://github.com/conjuncts/gmft.git 
