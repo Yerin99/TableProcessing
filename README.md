@@ -1,6 +1,6 @@
 # GMFT 테이블 추출 데모
 
-[GMFT](https://github.com/conjuncts/gmft) 라이브러리를 사용하여 PDF 문서에서 테이블을 추출하고 Markdown 으로 출력
+[GMFT](https://github.com/conjuncts/gmft) 라이브러리를 사용하여 PDF 문서에서 테이블을 추출하고 Markdown 으로 출력  
 (GPU 없이 **Windows + CPU** 환경만으로 동작)
 
 ## 0) conda 가상환경 예시
