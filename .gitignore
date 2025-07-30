@@ -1,0 +1,5 @@
+documents/*
+!documents/.gitkeep
+
+results/*
+!results/.gitkeep
